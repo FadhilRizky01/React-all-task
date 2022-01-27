@@ -1,6 +1,9 @@
-Web ini di bangunin dengan beberapa package 
+===== Web Portofolio ini di bangunin dengan beberapa package ======
 
 1. LazyLoadImage = npm i --save react-lazy-load-image-component
 2. React typical = npm install --save react-typical
 3. React Scroll = npm install react-scroll 
-4. build css buat tailwind nyaa = npm i build-css
+4. build css buat tailwind nyaa = npm i build-css 
+
+===== FORM Validation ===== 
+1. tailwind css form  = npm install @tailwindcss/forms 
